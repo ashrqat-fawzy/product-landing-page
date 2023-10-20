@@ -1,4 +1,4 @@
- * {
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -170,11 +170,11 @@ button.cta i {
   border-radius: 50%;
 }
 
-.item.blue .color-selector {
+.item.blue .book-selector {
   background-color: #5788e4;
 }
 
-.item.yellow .color-selector {
+.item.yellow .book-selector {
   background-color: #ecdc47;
 }
 
@@ -190,7 +190,7 @@ button.cta i {
   width: 130px;
 } 
 
-.item.active .color-selector {
+.item.active .book-selector {
   width: 28px;
   height: 28px;
 }
@@ -212,4 +212,3 @@ button.cta i {
   letter-spacing: 0.5px;
   font-weight: bold;
 } 
-
