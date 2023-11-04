@@ -1,1 +1,1 @@
-This my first project in SYNC.
+This my first project for SYNC.
